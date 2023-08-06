@@ -1,5 +1,5 @@
 # AudioCraft iPython Notebooks
-iPython notebooks for running AudioCraft.  Each notebook includes a Google Colab link.
+iPython notebooks for running <a href="https://github.com/facebookresearch/audiocraft">AudioCraft</a>.  Each notebook includes a Google Colab link.
 
 # Open in Google Colab
 - <a href="https://colab.research.google.com/github/bluecamel/audiocraft_ipynb/blob/main/MusicGen.ipynb" target="_parent">MusicGen</a>
